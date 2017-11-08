@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\CGCC\Downloads\TrafficLights\Traffic Lights Complete1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\CGCC\Downloads\TrafficLights\Traffic Lights Complete1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_cbbf3158751f7c8f8e1dbeaa86ba216af38c4d5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CGCC\Downloads\TrafficLights\Traffic Lights Complete1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="23b1a07f6448903387e1968e5ac885b536eeaa9f">
+        <dex dex="C:\Users\CGCC\Downloads\TrafficLights\Traffic Lights Complete1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_498fdfb16eef0cef128a71adc5699c8c6873f40d\classes.dex" />
+    </item>
+
+</items>

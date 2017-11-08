@@ -1,0 +1,7 @@
+#Wed Nov 08 11:20:43 EST 2017
+base.0=C\:\\Users\\CGCC\\Downloads\\TrafficLights\\Traffic Lights Complete1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_cbbf3158751f7c8f8e1dbeaa86ba216af38c4d5e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\CGCC\\Downloads\\TrafficLights\\Traffic Lights Complete1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_498fdfb16eef0cef128a71adc5699c8c6873f40d\\classes.dex
+base.1=C\:\\Users\\CGCC\\Downloads\\TrafficLights\\Traffic Lights Complete1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_498fdfb16eef0cef128a71adc5699c8c6873f40d
+file.0=C\:\\Users\\CGCC\\Downloads\\TrafficLights\\Traffic Lights Complete1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_cbbf3158751f7c8f8e1dbeaa86ba216af38c4d5e\\classes.dex
